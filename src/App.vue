@@ -1,6 +1,5 @@
 <template lang="pug">
-  v-containder
-    h1 here app
+  v-container.pa-0(fluid)
     Home
 </template>
 
